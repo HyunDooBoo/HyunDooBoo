@@ -20,10 +20,10 @@
 ![github](https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github&logoColor=white)
 <br><br><br>
 ### Platforms
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gusen1006)](https://solved.ac/HyunDooBoo)
 [![Github
 프로필](https://github-readme-stats.vercel.app/api?username=HyunDooBoo&show_icons=true&theme=shadow_blue)](https://solved.ac/HyunDooBoo)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gusen1006)](https://solved.ac/HyunDooBoo)
 <br><br><br>
 # 🤔SNS&Mail
 <a href="https://www.instagram.com/hyun_dooooooo/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=000000"/></a>
