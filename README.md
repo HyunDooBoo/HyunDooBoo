@@ -7,6 +7,13 @@
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gusen1006)](https://solved.ac/HyunDooBoo)
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/HyunDooBoo"
+  width="400"
+  height="180"
+/>
+</a>
 
 # 💪Skills
 ### Dev
@@ -41,18 +48,12 @@
 ![Portone](https://img.shields.io/badge/Portone-007BFF?style=for-the-badge&logo=Portone&logoColor=white)
 
 <br><br><br>
-### Git Status
+# 📊Git Status
 ﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HyunDooBoo&langs_count=10&layout=compact&theme=dark)](https://github.com/HyunDooBoo)
 [![Github
 프로필](https://github-readme-stats.vercel.app/api?username=HyunDooBoo&show_icons=true&theme=shadow_blue)](https://solved.ac/HyunDooBoo)
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HyunDooBoo&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
-<a href="https://github.com/devxb/gitanimals">
-<img
-  src="https://render.gitanimals.org/farms/HyunDooBoo"
-  width="600"
-  height="300"
-/>
-</a>
+
 <br><br><br>
 # 🤔SNS&Mail
 <a href="https://www.instagram.com/hyun_dooooooo/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=000000"/></a>
