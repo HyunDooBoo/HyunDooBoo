@@ -10,17 +10,25 @@
 
 # 💡 About Me
 
-안녕하세요! 저는 Hyundoo입니다. 😊
+안녕하세요! 저는 기술의 힘으로 세상을 더 나은 방향으로 변화시키는 것을 꿈꾸는 백엔드 개발자이자 인프라 엔지니어 입니다!
 
-기술의 힘으로 세상을 더 나은 방향으로 변화시키는 것을 꿈꾸는 인프라 엔지니어이자 백엔드 개발자입니다. 클라우드 기반의 솔루션을 통해 효율적인 시스템을 구축하고, 데이터의 흐름을 최적화하여 사용자에게 가치를 제공하는 데 열정을 가지고 있습니다.
+클라우드 기반의 솔루션을 통해 효율적인 시스템을 구축하고, 데이터의 흐름을 최적화하여 사용자 친화적인 서비스를 제공하는 데 열정을 가지고 있습니다.
+
+---
 
 ### 🌱 **What I'm Learning:**
+
 - 클라우드 환경에서의 자동화 및 최적화 기술을 배우고 있습니다.
 - 대규모 분산 시스템의 설계 원칙을 이해하고 적용하는 데 집중하고 있습니다.
 - Java와 Spring 프레임워크를 활용하여 더 나은 성능과 확장성을 가진 백엔드 시스템을 개발하는 방법을 연구하고 있습니다.
 
+---
+
 ### 🌐 **Check out my Portfolio:**
+
 [여기](https://github.com/HyunDooBoo/Portfolio)에서 제가 작업한 프로젝트들을 확인하실 수 있습니다!
+
+<br>
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gusen1006)](https://solved.ac/HyunDooBoo)
@@ -44,6 +52,8 @@
 
 <br>
 
+---
+
 ### Infra & DB
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
@@ -60,6 +70,8 @@
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white)
 
 <br>
+
+---
 
 ### Tool
 ![github](https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github&logoColor=white)
