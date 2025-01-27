@@ -5,6 +5,9 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHyunDooBoo%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <br><br><br>
 
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gusen1006)](https://solved.ac/HyunDooBoo)
+
 # 💪Skills
 ### Dev
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
@@ -38,11 +41,11 @@
 ![Portone](https://img.shields.io/badge/Portone-007BFF?style=for-the-badge&logo=Portone&logoColor=white)
 
 <br><br><br>
-### Platforms
+### Git Status
+﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HyunDooBoo&langs_count=10&layout=compact&theme=dark)](https://github.com/HyunDooBoo)
 [![Github
 프로필](https://github-readme-stats.vercel.app/api?username=HyunDooBoo&show_icons=true&theme=shadow_blue)](https://solved.ac/HyunDooBoo)
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gusen1006)](https://solved.ac/HyunDooBoo)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HyunDooBoo&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <a href="https://github.com/devxb/gitanimals">
 <img
   src="https://render.gitanimals.org/farms/HyunDooBoo"
