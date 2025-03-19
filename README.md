@@ -24,9 +24,10 @@
 
 ---
 
-### 🌐 **Check out my Portfolio:**
+<br>
 
-[여기](https://github.com/HyunDooBoo/Portfolio)에서 제가 작업한 프로젝트들을 확인하실 수 있습니다!
+# ✨[포트폴리오 링크](https://github.com/HyunDooBoo/Portfolio)✨
+- 위 링크에서 제가 작업한 프로젝트들을 확인하실 수 있습니다!
 
 <br>
 
