@@ -26,7 +26,22 @@
 
 # ✨Portfolio✨
 
-## 👉🖱️[여기](https://github.com/HyunDooBoo/Portfolio)에서 제가 작업한 프로젝트들을 확인하실 수 있습니다!
+### 🌐 Infra 프로젝트 🎖️
+
+| No | Title | Desc | Stack | Scale | Link | Date |
+|----|---------------|------|-----------|----------|------|------|
+| 1 | **DB 백업 자동화 인프라**  | 컨테이너간의 통신을 통해 매 분마다 db를 자동 백업해주는 인프라 구성 프로젝트 | docker, linux, mysql | 단독 | [GitHub 링크](https://github.com/HyunDooBoo/docker-db-infra) | 2025-03-21 |
+| 3 | **실시간 코인 정보 시각화 프로젝트**  | 카프카를 통한 데이터 파이프라인 구축 및 실시간 시각화 프로젝트 | kafka, ubuntu, mongodb, elasticsearch, kibana, java, python | 4명 | [GitHub 링크](https://github.com/love-tooth/fisa-tech-senima) | 2025-02-17 |
+| 4 | **금융 데이터 분석 프로젝트**  | 실제 금융 데이터를 ELK 스택을 활용해 시각화 한 뒤 분석한 프로젝트 | ubuntu, elasticsearch, kibana, virtualBox, MobaXtrem | 4명 | [GitHub 링크](https://github.com/HyunDooBoo/card-data-analysis) | 2025-01-24 |
+
+### 💻 Dev 프로젝트 ✨
+
+| No | Title | Desc | Stack | Scale | Link | Date |
+|----|---------------|------|-----------|----------|------|------|
+| 1 | **Hey Bid! 중고 경매 플랫폼** | 중고 물건을 상향식, 하향식 두 가지 방식으로 거래할 수 있는 플랫폼 | java, jpa, jwt, spring boot, flutter, redis, es, docker, github action, portOne, fcm | 6인 | [GitHub 링크](https://github.com/HyunDooBoo/As_BE) | 2024-11-18 |
+| 2 | **실시간 코인 캔들 시각화** | 업비트 api를 기반으로 실시간 코인 캔들 데이터를 초, 분, 시, 일 기준으로 시각화 | kafka, vmware, postgres, java, jpa, spring boot, redis, docker, github action | 4인 | [GitHub 링크](https://github.com/Team-Stofka/docs) | 2025-04-11 |
+
+## 👉🖱️[여기](https://github.com/HyunDooBoo/Portfolio)에서 제가 작업한 프로젝트들을 더 확인하실 수 있습니다!
 
 <br>
 
