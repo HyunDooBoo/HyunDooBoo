@@ -30,8 +30,9 @@
 
 | No | Title | Desc | Stack | Scale | Link | Date |
 |----|---------------|------|-----------|----------|------|------|
-| 1 | **DB 백업 자동화 인프라**  | 컨테이너간의 통신을 통해 매 분마다 db를 자동 백업해주는 인프라 구성 프로젝트 | docker, linux, mysql | 단독 | [GitHub 링크](https://github.com/HyunDooBoo/docker-db-infra) | 2025-03-21 |
-| 3 | **실시간 코인 정보 시각화 프로젝트**  | 카프카를 통한 데이터 파이프라인 구축 및 실시간 시각화 프로젝트 | kafka, ubuntu, mongodb, elasticsearch, kibana, java, python | 4명 | [GitHub 링크](https://github.com/love-tooth/fisa-tech-senima) | 2025-02-17 |
+| 1 | **실시간 코인 정보 시각화 프로젝트**  | 카프카를 통한 데이터 파이프라인 구축 및 실시간 시각화 프로젝트 | kafka, ubuntu, mongodb, elasticsearch, kibana, java, python | 4명 | [GitHub 링크](https://github.com/love-tooth/fisa-tech-senima) | 2025-02-17 |
+| 2 | **Kubernetes CI/CD 자동화 프로젝트**  | ArgoCD를 사용한 사내용 GitOps 자동화 프로젝트 | ArgoCD, Jenkins, k8s, Gitea | 단독 | [GitHub 링크](https://github.com/HyunDooBoo/DevOps_demo) | 2025-04-16 |
+| 3 | **DB 백업 자동화 인프라**  | 컨테이너간의 통신을 통해 매 분마다 db를 자동 백업해주는 인프라 구성 프로젝트 | docker, linux, mysql | 단독 | [GitHub 링크](https://github.com/HyunDooBoo/docker-db-infra) | 2025-03-21 |
 | 4 | **금융 데이터 분석 프로젝트**  | 실제 금융 데이터를 ELK 스택을 활용해 시각화 한 뒤 분석한 프로젝트 | ubuntu, elasticsearch, kibana, virtualBox, MobaXtrem | 4명 | [GitHub 링크](https://github.com/HyunDooBoo/card-data-analysis) | 2025-01-24 |
 
 ### 💻 Dev 프로젝트 ✨
