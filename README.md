@@ -48,11 +48,11 @@
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gusen1006)](https://solved.ac/HyunDooBoo)
-<a href="https://github.com/devxb/gitanimals">
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=HyunDooBoo&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/HyunDooBoo"
-  width="400"
-  height="180"
+  width="600"
+  height="300"
 />
 </a>
 
